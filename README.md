@@ -1,4 +1,4 @@
-# SortingVisualizer
+# Sorting-Visualizer
 
 ## This is a simple visualization website created using HTML, CSS and Javascript.
 
@@ -7,4 +7,4 @@ You can use the website to visualize the following sorting algorthims:
 - Merge Sort
 - Quick Sort
 
-You can find the website  [here](https://rakeshvs1202.github.io/Sorting-Visualizer/)
+You can find the website  [here](https://rakeshvs1202.github.io/Sorting-Visualizer)
